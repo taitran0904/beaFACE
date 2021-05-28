@@ -1,0 +1,231 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="GiaoDien.master.cs" Inherits="ShopQuanAo.GiaoDien" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="UTF-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kaushan+Script">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cookie">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,400i,700,700i">
+    <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="assets/fonts/fontawesome5-overrides.min.css">
+    <link href="Styles/style.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/nivo-slider.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/default/default.css" rel="stylesheet" type="text/css" />
+    <script src="Scripts/jquery-1.7.1.min.js" type="text/javascript"></script>
+    <script src="Scripts/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+    <script src="Scripts/myjs.js" type="text/javascript"></script>
+    <link href="<%=ResolveUrl("~/Styles/style.css") %>" rel="stylesheet" type="text/css" />
+    <link href="Styles/css_dangky.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body >
+    <form id="form1" runat="server">	
+	<div id="wrapper" >
+    	<div id="header_top">
+            <div id="LH">
+                <p><i class="fa fa-envelope"></i>&ensp;taitranonlyt100920@gmail.com &ensp;&ensp;<i class="fa fa-phone"></i>&ensp;0941038710</p>
+            </div>
+        	<div id="user_login">
+            	Xin chào, <asp:HyperLink ID="hplLogin" runat="server" 
+                    NavigateUrl="DangNhap.aspx?url=dn">[hplLogin]</asp:HyperLink> !
+                <a href="ThoatDangNhap.aspx" runat = "server" id = "lThoat" 
+                    onclick="return confirm('Bạn có chắc chắn muốn thoát không ?')" visible="False">(Thoát)</a>
+             
+            </div>
+            
+            <div id="header_links">
+            	
+            	<ul>
+                	<li>
+                    	<a href="TrangChu.aspx">Trang Chủ</a>
+                    </li>
+                    <li>
+                    	<a href="DangKy.aspx?url=dk">Đăng ký</a>
+                    </li>
+                    <li>
+                    	<a href="LienHe.aspx">Liên Hệ</a>
+                    </li>
+                    
+                </ul>
+                
+            </div>
+        </div>
+        <div id="banner">
+        	<div id="logo">
+            	<a href="TrangChu.aspx" title="Fashion Store" ><img src="images/logo2.png" alt = "Fashion Store"/></a>
+            </div>
+            <div id="adv">
+            	&nbsp;</div>
+            <div id="search">
+                <asp:TextBox ID="txtSearch" runat="server" CssClass="search_query" placeholder="Bạn muốn tìm gì"></asp:TextBox>
+                <asp:LinkButton ID="ibtnTimKiem" runat="server" CssClass="button_search" OnClick="ibtnTimKiem_Click"><i class="fa fa-search"></i></asp:LinkButton>
+                
+            </div>
+        </div>
+        <div id="navigation" >
+        	<ul>
+            	<li>
+                	<a href="#">Thời Trang Nam</a>
+                    <span style="z-index:100;">
+                    	<asp:HyperLink ID="hplAothunam" runat="server" NavigateUrl="SanPham.aspx?url=nam0">Áo thun</asp:HyperLink>
+                        <asp:HyperLink ID="hplAosominam" runat="server" NavigateUrl="SanPham.aspx?url=nam1">Áo sơ mi</asp:HyperLink>
+                        <asp:HyperLink ID="hplAokhoacnam" runat="server" NavigateUrl="SanPham.aspx?url=nam2">Áo Khoác</asp:HyperLink>
+                        <asp:HyperLink ID="hplQuanjeannam" runat="server" NavigateUrl="SanPham.aspx?url=nam3">Quần Jean</asp:HyperLink>
+                        <asp:HyperLink ID="hplQuankakinam" runat="server" NavigateUrl="SanPham.aspx?url=nam4">Quần Kaki</asp:HyperLink>
+                    </span>
+                </li>
+                <li >
+                	<a href="#">Thời Trang Nữ</a>
+                    <span style="z-index:100;">
+                    	<asp:HyperLink ID="hplAothunnu" runat="server" NavigateUrl="SanPham.aspx?url=nu0">Áo thun</asp:HyperLink>
+                        <asp:HyperLink ID="hplAosominu" runat="server" NavigateUrl="SanPham.aspx?url=nu1">Áo sơ mi</asp:HyperLink>
+                        <asp:HyperLink ID="hplAokhoacnu" runat="server" NavigateUrl="SanPham.aspx?url=nu2">Áo Khoác</asp:HyperLink>
+                        <asp:HyperLink ID="hplQuanjeannu" runat="server" NavigateUrl="SanPham.aspx?url=nu3">Quần Jean</asp:HyperLink>
+                        <asp:HyperLink ID="hplVaynu" runat="server" NavigateUrl="SanPham.aspx?url=nu5">Váy</asp:HyperLink>
+                  
+                                           
+                    </span>
+                </li>
+                <li>
+                	 <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="SanPham.aspx?url=pknam">Phụ Kiện Nam</asp:HyperLink>
+                </li>
+                <li>
+                    <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="SanPham.aspx?url=pknu">Phụ Kiện Nữ</asp:HyperLink>
+                </li>
+                <li>
+                    <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="SanPham.aspx?url=saleoff">SaleOff</asp:HyperLink>
+                </li>
+                <li>
+                    <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="SanPham.aspx?url=new">New</asp:HyperLink>
+                </li>
+                <li>
+                   <asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="SanPham.aspx?url=hot">Hàng HOT</asp:HyperLink>
+                </li>
+                
+            </ul>
+        	
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+        </asp:ContentPlaceHolder>
+       
+        <div id="content">
+        	<div id="title">
+                <asp:Label ID="lblTieuDe" runat="server" Text="Label" Font-Size="X-Large" ForeColor="#663300" Height="50px" Font-Names="Courier New" Font-Bold="True" CssClass="title">Sản phẩm nổi bật</asp:Label>
+            </div>
+            <div style="clear:both;"></div>
+        	<div id="left_content">
+            	<div class="list">
+                	 <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+             
+                    </asp:ContentPlaceHolder>
+                </div>
+            	 
+            </div>
+            <div id="right_content">
+                
+            	<div id="cart_top">
+                	<h3>Giỏ Hàng </h3>
+                    <a style="cursor:pointer;" id="animation"><img src="images/cart_arrow.png" alt=""  /></a>
+                </div>
+                <div id="cart_mid">
+                	<div class="content_c">
+                         <div id="cart_content1">
+                                <asp:DataList ID="dtlGioHang" runat="server" DataKeyField="MaSP">
+                                   <ItemTemplate>
+                                     <div class = "SanPham">
+                                        <table style="width: 100%;">
+                                           <tr>
+                                                <td style="text-align:left;width:10px;font-weight:bold;"><asp:Label ID="txtSoLuong" runat="server" Text='<%# Eval("SL")+"x" %>'></asp:Label></td>
+                                                <td style="text-align:left;width:200px;padding-left:10px;font-weight:bold;">
+                                                    <asp:HyperLink ID="hplTenSP" runat="server" 
+                                                        NavigateUrl= "#" ForeColor="#006666" Text ='<%# Eval("Ten") %>'></asp:HyperLink></td>
+                                                <td style="text-align:right;width:10px;font-weight:bold;"> 
+                                                    <asp:HyperLink ID="hptXoaSP" runat="server" NavigateUrl ='<%#  Eval("MaSP","TrangChu.aspx?action=xoa&id={0}") %>'
+                                            ImageUrl ="~/images/nut-xoa.png" ForeColor="#009999"></asp:HyperLink></td>
+                                           </tr>
+                                        </table>
+                                     </div>
+                                   </ItemTemplate>
+                                   
+                                </asp:DataList>
+                               
+                            <div class = "tongtien">
+                                <asp:Label ID="lblTongSL" runat="server" Text="Số lượng : 0 sản phẩm " 
+                                    ForeColor="#663300"></asp:Label>
+                                <hr />
+                                <asp:Label ID="lblTongTien" runat="server" Text="Thành tiền : 0 VNĐ" 
+                                    ForeColor="#663300"></asp:Label>
+                                 <hr />
+
+                            </div>
+                             <div class = "tongtien">
+                                 <asp:Button ID="ibtnXemGio" runat="server" Text="Xem giỏ" class="btn btn-dark btn-sm" PostBackUrl="~/XemGioHang.aspx?url=xemgio"/>
+                                 <asp:Button ID="ibtnThanhToan" runat="server" Text="Thanh toán" class="btn btn-dark btn-sm" PostBackUrl="~/ThanhToan.aspx?url=thanhtoan" />
+                            </div>
+                         </div>
+                    </div>
+                </div>
+                <div id="cart_bottom">
+                   
+                </div>
+                <br  />
+                <h3 class="h1_color_green">Quảng cáo</h3>
+                <div id="adv_content">
+                     <asp:AdRotator ID="AdRotator1" runat="server" 
+                         AdvertisementFile="~/QuangCao.xml" Width="100%" />
+                </div>
+            	
+            </div>
+        </div>
+    </div>
+    <div id ="footer">
+            <div class="row">
+            <div class="col-sm-6 col-md-4 footer-navigation">
+                <h3><a href="#">bea&nbsp;<span>Fash</span></a></h3>
+                <p class="company-name">Company Tai Tran © Tháng 3/2020</p>
+            </div>
+            <div class="col-sm-6 col-md-4 footer-contacts">
+                <div><span class="fa fa-map-marker footer-contacts-icon"> </span>
+                    <p><span class="new-line-span">06 Trần Văn Ơn, Phú Hòa</span> Thủ Dầu Một, Bình Dương</p>
+                </div>
+                <div><i class="fa fa-phone footer-contacts-icon"></i>
+                    <p class="footer-center-info email text-left"> 0941038710</p>
+                </div>
+                <div><i class="fa fa-envelope footer-contacts-icon"></i>
+                    <p> <a href="#" target="_blank">taitranonlyt100920@gmail.com</a></p>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="col-md-4 footer-about">
+                <h4>Cập nhật thông tin khuyến mãi nhanh nhất</h4>
+                <form class="search-form">
+                    <div class="input-group">
+                        <div class="input-group-prepend"></div><input class="form-control" type="text" placeholder="Email" >
+                        <div class="input-group-append"><button class="btn btn-light" type="button">Gửi</button></div>
+                    </div>
+                </form>
+                <div class="social-links social-icons"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fab fa-youtube"></i></a><a href="#"><i class="fab fa-instagram"></i></a></div>
+            </div>
+        </div>
+        
+    </div>
+    
+    
+   
+    </form>
+     
+</body>
+</html>

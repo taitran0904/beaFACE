@@ -1,0 +1,75 @@
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll.config
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojAssemblyReference.cache
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+C:\Users\Tai Tran\Downloads\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll.config
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojAssemblyReference.cache
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+D:\[Scodeweb][MS_1473]\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll.config
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\ShopQuanAo.pdb
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\AjaxControlToolkit.pdb
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\ar\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\cs\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\de\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\es\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\fr\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\he\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\hi\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\it\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\ja\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\ko\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\nl\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\pt\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\ru\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\tr-TR\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\zh-CHS\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\bin\zh-CHT\AjaxControlToolkit.resources.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csprojAssemblyReference.cache
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CoreCompileInputs.cache
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.csproj.CopyComplete
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.dll
+D:\BanQuanAo\ShopQuanAo\ShopQuanAo\obj\Debug\ShopQuanAo.pdb

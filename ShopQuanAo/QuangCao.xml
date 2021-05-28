@@ -1,0 +1,19 @@
+﻿<Advertisements>
+  <Ad>
+    <ImageUrl>images\spotify.jpg</ImageUrl>
+    <NavigateUrl>https://www.spotify.com/vn-vi/</NavigateUrl>
+    <AlternateText>Spotify</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic1</Keyword>
+    <Caption>Topic 1</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>images\tocchien.jpg</ImageUrl>
+    <NavigateUrl>https://tocchien.zing.vn/vi-vn/</NavigateUrl>
+    <AlternateText>Tốc chiên</AlternateText>
+    <Impressions>80</Impressions>
+    <Keyword>Topic2</Keyword>
+    <Caption>Topic 2</Caption>
+  </Ad>
+</Advertisements>
